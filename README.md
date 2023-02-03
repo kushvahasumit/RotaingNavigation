@@ -7,7 +7,7 @@ Hey, going to Create Rotating Navigation using HTML, CSS, and JS.  I also create
 * CSS 
 * JavaScript
 
-# Let's Rotate page :: http://127.0.0.1:3000/nav.html
+# Let's Rotate page
 Step1 : click on open button (to rotate the page or show hidden bars)
 
 Step2 : simply click on close 0r cross .
