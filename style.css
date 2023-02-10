@@ -135,3 +135,13 @@ nav ul li+li+li+li {
     color: #333;
     line-height: 1.5;
 }
+
+.img{
+    -webkit-filter: blur(3px);
+            filter: blur(3px);
+}
+
+.img:hover{
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+}
