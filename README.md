@@ -6,6 +6,8 @@ Hey, going to Create Rotating Navigation using HTML, CSS, and JS.  I also create
 * CSS
 * JavaScript
 
+# Live link :: https://navigating-page.netlify.app/
+
 # MY Project Link 👉 https://youtu.be/8rjk-dQmU8Y
 
 # Have a look 
